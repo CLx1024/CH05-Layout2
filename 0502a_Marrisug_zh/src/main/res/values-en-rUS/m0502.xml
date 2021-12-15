@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="m0502_t001"> gender:</string>
+    <string name="m0502_s001"> gender selection</string>
+    <string name="m0502_b001"> marriage proposal</string>
+    <string name="m0502_t003"> result:</string>
+    <string name="m0502_f001"> Still young, don’t worry. (Male)</string>
+    <string name="m0502_f002"> It’s best to get married at this time. (Male)</string>
+    <string name="m0502_f003"> Hurry up and find a partner, it is too late. (Male)</string>
+    <string name="m0502_f004"> Still young, don’t worry. (Female)</string>
+    <string name="m0502_f005"> It’s best to get married at this time. (Female)</string>
+    <string name="m0502_f006"> Hurry up and find a partner, it is too late. (Female)</string>
+    <string name="m0502_t002"> age:</string>
+    <string name="chk01"> Male</string>
+    <string name="m0502_f000"> I suggest you</string>
+    <string name="m0502_r001a"> male</string>
+    <string name="m0502_r001b"> female</string>
+    <string name="m0502_r002aa"> less than 28 years old</string>
+    <string name="m0502_r002ab"> 28~33 years old</string>
+    <string name="m0502_r002ac"> more than 33 years old</string>
+    <string name="m0502_r002ba"> less than 25 years old</string>
+    <string name="m0502_r002bb">25~30 years old</string>
+    <string name="m0502_r002bc"> more than 30 years old</string>
+</resources>
